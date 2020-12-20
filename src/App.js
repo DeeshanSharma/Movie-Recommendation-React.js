@@ -78,7 +78,7 @@ export default function App() {
 					))}
 				</ul>
 			</div>
-			<a className="source" href="https://github.com/DeeshanSharma/Movie-Recommendation-React.js" target="_blank" rel="noreferrer">Source Code</a>
+			<a className="source" href="https://github.com/DeeshanSharma/Movie-Recommendation-React.js" target="_blank" rel="noopener noreferrer">Source Code</a>
 		</div>
 	);
 }
